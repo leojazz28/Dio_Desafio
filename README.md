@@ -1,5 +1,5 @@
 # Dio_Desafio 
-### Primerio Desafio 
-- projetos git da dio 
+- Primerio Desafio 
+- Projetos git da dio 
 - dotnet 
-Primeiro Desafio Dio 
+
